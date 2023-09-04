@@ -1,3 +1,18 @@
 [submodule "foundry-fund-me"]
 	path = foundry-fund-me
 	url = https://github.com/Shiv2116/foundry-fund-me.git
+[submodule "foundry-lottey"]
+	path = foundry-lottey
+	url = https://github.com/Shiv2116/foundry-lottery.git
+[submodule "foundry-lottery"]
+	path = foundry-lottery
+	url = https://github.com/Shiv2116/foundry-lottery.git
+[submodule "UUPS-Foundry"]
+	path = UUPS-Foundry
+	url = https://github.com/Shiv2116/UUPS-Foundry.git
+[submodule "StableCoin-Foundry_Project"]
+	path = StableCoin-Foundry_Project
+	url = https://github.com/Shiv2116/StableCoin-Foundry_Project.git
+[submodule "DAO-Foundry"]
+	path = DAO-Foundry
+	url = https://github.com/Shiv2116/DAO-Foundry.git
