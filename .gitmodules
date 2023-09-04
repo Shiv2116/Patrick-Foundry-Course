@@ -1,0 +1,3 @@
+[submodule "foundry-fund-me"]
+	path = foundry-fund-me
+	url = https://github.com/Shiv2116/foundry-fund-me.git
